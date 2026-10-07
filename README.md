@@ -35,3 +35,11 @@ https://decomrradio.blogspot.com/
 <img height="30" src="https://raw.githubusercontent.com/davserv/d-framework/refs/heads/img-iso/count.svg" /></a>
 
 <br />
+
+
+[twitter]: https://twitter.com/davidsonbpe
+[youtube]: https://www.youtube.com/channel/UCHqvw9v2Fp6o006lUskoigg/
+[instagram]: https://www.instagram.com/davidsonbpe/
+[facebook]: https://www.facebook.com/decomrradio/
+[CodePen]: https://codepen.io/davidsonbpe/
+[github]: https://github.com/davidsonbpe/
